@@ -27,7 +27,7 @@ Where to find solutions to problems:
 
 - https://stackoverflow.com/
 
-####SQL
+#### SQL
 
 What is:
 
@@ -44,7 +44,7 @@ Flavours:
 - SQLite
 - MySQL
 
-####C
+#### C
 
 What is:
 
@@ -56,13 +56,13 @@ Where to learn:
 - http://www.learn-c.org
 - https://hackr.io/tutorials/learn-c
 
-####C++
+#### C++
 
 What is:
 
 - https://en.wikipedia.org/wiki/C%2B%2B
 
-####Objective-C:
+#### Objective-C:
 
 What is:
 
@@ -73,7 +73,7 @@ Where to learn:
 - https://code.tutsplus.com/tutorials/learn-objective-c-day-1--mobile-1844
 - https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
-####Python:
+#### Python:
 
 What is:
 
