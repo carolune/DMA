@@ -64,7 +64,7 @@ What is:
 
 - https://en.wikipedia.org/wiki/C%2B%2B
 
-### Objective-C:
+### Objective-C
 
 What is:
 
@@ -75,7 +75,7 @@ Where to learn:
 - https://code.tutsplus.com/tutorials/learn-objective-c-day-1--mobile-1844
 - https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
-### Python:
+### Python
 
 What is:
 
@@ -87,6 +87,254 @@ Where to learn:
 - https://www.learnpython.org
 - https://developers.google.com/edu/python/
 - http://docs.python-guide.org/en/latest/intro/learning/
+
+### R
+
+What is:
+
+- https://www.r-project.org
+- https://en.wikipedia.org/wiki/R_(programming_language)
+
+Where to learn:
+
+- https://onlinecourses.science.psu.edu/statprogram/r
+- https://www.r-statistics.com
+
+Where to find solutions to problems:
+
+- https://www.reddit.com/r/rstats/
+
+### javascript
+
+What is:
+
+Where to learn:
+
+
+### Perl
+
+What is:
+
+Where to learn:
+
+
+### Fortran
+
+What is:
+
+Where to learn:
+
+
+### Java
+
+What is:
+
+Where to learn:
+
+
+### HTML
+
+What is:
+
+Where to learn:
+
+
+### CSS
+
+What is:
+
+Where to learn:
+
+
+### CGI
+
+What is:
+
+Where to learn:
+
+
+### XML
+
+What is:
+
+Where to learn:
+
+
+### Applescript
+
+What is:
+
+Where to learn:
+
+
+### Cocoa
+
+What is:
+
+Where to learn:
+
+
+### LaTeX
+
+What is:
+
+Where to learn:
+
+
+### Flask
+
+What is:
+
+Where to learn:
+
+
+### D3
+
+What is:
+
+Where to learn:
+
+
+### IDL
+
+What is:
+
+Where to learn:
+
+
+### TurboGears
+
+What is:
+
+Where to learn:
+
+
+### WebObjects
+
+What is:
+
+Where to learn:
+
+
+### AstroPy
+
+What is:
+
+Where to learn:
+
+
+### CorePlot
+
+What is:
+
+Where to learn:
+
+
+### Git
+
+What is:
+
+Where to learn:
+
+
+### Agile
+
+What is:
+
+Where to learn:
+
+
+### Outreach
+
+What is:
+
+Where to learn:
+
+
+### UI design
+
+What is:
+
+Where to learn:
+
+
+### Teaching
+
+What is:
+
+Where to learn:
+
+
+### Labs
+
+What is:
+
+Where to learn:
+
+
+### Mentoring
+
+What is:
+
+Where to learn:
+
+
+### Public Speaking
+
+What is:
+
+Where to learn:
+
+
+### Writing (Documentation/Reports)
+
+What is:
+
+Where to learn:
+
+
+### Data Archives/DVC
+
+What is:
+
+Where to learn:
+
+
+### Visualization
+
+What is:
+
+Where to learn:
+
+
+### REST
+
+What is:
+
+Where to learn:
+
+
+### Team Management
+
+What is:
+
+Where to learn:
+
+
+### Improvisation
+
+What is:
+
+Where to learn:
+
+
+### Photography
+
+What is:
+
+Where to learn:
+
+
 
 # Conclusion
 
