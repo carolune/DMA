@@ -64,6 +64,9 @@ What is:
 
 - https://en.wikipedia.org/wiki/C%2B%2B
 
+You've got it if you understand:
+> `C++; // makes C bigger, returns old value `
+
 ### Objective-C
 
 What is:
@@ -108,8 +111,17 @@ Where to find solutions to problems:
 
 What is:
 
+- https://www.javascript.com
+- https://en.wikipedia.org/wiki/JavaScript
+
 Where to learn:
 
+- https://www.w3schools.com/js/
+
+You've got it if you understand this:
+
+> And the bartender says, "Success, but you're not ready!"
+> So a JavaScript function walks into a bar.
 
 ### Perl
 
@@ -338,11 +350,7 @@ Where to learn:
 
 # Conclusion
 
-We share lots of DNA but how much DMA do we share?
-
-How do we mutate?
-
-What is the impat of a mutation?
+We share lots of DNA but how much DMA do we share? How do we mutate? What is the impact of a mutation?
 
 
 Thank you [@demitrimuna](https://twitter.com/demitrimuna) for being a willing volunteer.
