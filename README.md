@@ -188,7 +188,7 @@ Where to learn:
 You've got it when you understand:
 
 > What's the object-oriented way to become wealthy?
-
+> 
 > Inheritance
 
 ### HTML
