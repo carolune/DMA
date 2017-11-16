@@ -9,9 +9,7 @@ It is inspired by the technological genome of [Demitri Muna](http://muna.com), o
 
 I have sequenced the DMA and here is what I found, along with resources on how to pick up the skills in the DMA.
 
-### Where to learn
-
-General resources:
+### General resources:
 
 Where to learn:
 
@@ -19,6 +17,7 @@ Where to learn:
 - https://www.tutorialspoint.com/
 - https://www.edx.org/
 - https://coursera.org/
+- https://hackr.io
 - https://www.codeschool.com (not free)
 - https://learncodethehardway.org/ (not free)
 - https://udemy.com/ (not free)
@@ -26,14 +25,17 @@ Where to learn:
 Where to find solutions to problems:
 
 - https://stackoverflow.com/
+- https://www.codementor.io/
+- https://xkcd.com
+- https://giphy.com
 
-#### SQL
+### SQL
 
 What is:
 
 - https://en.wikipedia.org/wiki/SQL
 
-Additional where to learn:
+Where to learn:
 
 - https://www.w3schools.com/sql/
 - http://www.dofactory.com/sql/tutorial
@@ -44,7 +46,7 @@ Flavours:
 - SQLite
 - MySQL
 
-#### C
+### C
 
 What is:
 
@@ -56,13 +58,13 @@ Where to learn:
 - http://www.learn-c.org
 - https://hackr.io/tutorials/learn-c
 
-#### C++
+### C++
 
 What is:
 
 - https://en.wikipedia.org/wiki/C%2B%2B
 
-#### Objective-C:
+### Objective-C:
 
 What is:
 
@@ -73,17 +75,29 @@ Where to learn:
 - https://code.tutsplus.com/tutorials/learn-objective-c-day-1--mobile-1844
 - https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
-#### Python:
+### Python:
 
 What is:
 
 - https://www.python.org
 - https://en.wikipedia.org/wiki/Python_(programming_language)
 
+Where to learn:
 
+- https://www.learnpython.org
+- https://developers.google.com/edu/python/
+- http://docs.python-guide.org/en/latest/intro/learning/
 
 # Conclusion
 
-We share lots of DNA but how much of DMA do we share? ;)
+We share lots of DNA but how much DMA do we share?
+
+How do we mutate?
+
+What is the impat of a mutation?
 
 
+Thank you [@demitrimuna](https://twitter.com/demitrimuna) for being a willing volunteer.
+
+
+PS: This may be the creepiest hack of .astro ever - apologies.
