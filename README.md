@@ -46,6 +46,11 @@ Flavours:
 - SQLite
 - MySQL
 
+You've got it if you understand:
+
+https://imgs.xkcd.com/comics/exploits_of_a_mom.png
+
+
 ### C
 
 What is:
@@ -58,6 +63,14 @@ Where to learn:
 - http://www.learn-c.org
 - https://hackr.io/tutorials/learn-c
 
+You've got it if you understand:
+
+> A guy walks into a bar and asks for 1.014 root beers.
+
+> The bartender says, “I’ll have to charge you extra, that’s a root beer float”.
+
+> So the guy says, “In that case, better make it a double.”
+
 ### C++
 
 What is:
@@ -65,6 +78,7 @@ What is:
 - https://en.wikipedia.org/wiki/C%2B%2B
 
 You've got it if you understand:
+
 > `C++; // makes C bigger, returns old value `
 
 ### Objective-C
@@ -78,6 +92,10 @@ Where to learn:
 - https://code.tutsplus.com/tutorials/learn-objective-c-day-1--mobile-1844
 - https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
+You've got it if you understand:
+
+> I once told an Objective-C joke, but nobody got the message.
+
 ### Python
 
 What is:
@@ -90,6 +108,10 @@ Where to learn:
 - https://www.learnpython.org
 - https://developers.google.com/edu/python/
 - http://docs.python-guide.org/en/latest/intro/learning/
+
+You've got it if you understand:
+
+> You create a gun module, a gun class, a foot module and a foot class. After realising you can't point the gun at the foot, you pass a reference to the gun to a foot object. After the foot is blown up, the gun object remains alive for eternity, ready to shoot all future feet that may happen to appear.
 
 ### R
 
@@ -118,31 +140,56 @@ Where to learn:
 
 - https://www.w3schools.com/js/
 
-You've got it if you understand this:
+You've got it if you understand:
 
 > And the bartender says, "Success, but you're not ready!"
+
 > So a JavaScript function walks into a bar.
 
 ### Perl
 
 What is:
 
+- https://www.perl.org
+- https://en.wikipedia.org/wiki/Perl
+
 Where to learn:
 
+- https://learn.perl.org
+- http://www.learn-perl.org
 
 ### Fortran
 
 What is:
 
+- https://en.wikipedia.org/wiki/Fortran
+
 Where to learn:
+
+- http://fortranwiki.org/fortran/show/HomePage
+
+You've got it if you understand:
+
+> GOD is REAL (unless declared INTEGER).
 
 
 ### Java
 
 What is:
 
+- https://en.wikipedia.org/wiki/Java_(software_platform)
+- https://www.java.com/en/
+
 Where to learn:
 
+- http://www.oracle.com/technetwork/java/index-jsp-135888.html
+- https://www.whizlabs.com/oracle-java-certifications/
+
+You've got it when you understand:
+
+> What's the object-oriented way to become wealthy?
+
+> Inheritance
 
 ### HTML
 
