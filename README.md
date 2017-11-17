@@ -338,113 +338,193 @@ Where to learn:
 
 What is:
 
+- https://github.com/core-plot
+
 Where to learn:
 
+- https://www.raywenderlich.com/131985/core-plot-tutorial-getting-started
+- http://core-plot.github.io
 
 ### Git
 
 What is:
 
+-  != github
+- https://git-scm.com
+- https://en.wikipedia.org/wiki/Git
+
 Where to learn:
 
+- https://try.github.io/levels/1/challenges/1
+- https://www.atlassian.com/git
 
 ### Agile
 
 What is:
 
+- https://en.wikipedia.org/wiki/Agile_software_development
+- http://agilemanifesto.org
+
 Where to learn:
 
+- http://reqtest.com/agile-blog/15-awesome-free-resources-to-learn-more-about-agile-and-scrum-methodology/
+- https://www.visualstudio.com/agile/
 
 ### Outreach
 
 What is:
 
+- https://en.wikipedia.org/wiki/Public_engagement#In_science_and_technology
+- http://www.fromthelabbench.com/from-the-lab-bench-science-blog/public-engagement-with-science-what-it-means
+
 Where to learn:
 
+- https://www.aaas.org/pes/value-public-engagement
 
 ### UI design
 
 What is:
 
+- https://en.wikipedia.org/wiki/User_interface_design
+
 Where to learn:
 
+- https://medium.com/hh-design/crash-course-ui-design-25d13ff60962
+- https://www.usability.gov/what-and-why/user-interface-design.html
+
+Gratuitous BoredPanda link:
+
+- https://www.boredpanda.com/funny-design-fails/
 
 ### Teaching
 
 What is:
 
+- https://www.merriam-webster.com/dictionary/teaching
+
 Where to learn:
 
+- https://teach.com/what/teachers-teach/teaching-methods/
+- http://busyteacher.org/16874-how-to-become-the-best-teacher-students-advice.html
+- https://www.theguardian.com/teacher-network/teacher-blog/2014/oct/31/effective-teaching-10-tips
 
-### Labs
+### Workshops
 
 What is:
 
+- https://en.wikipedia.org/wiki/Workshop
+
 Where to learn:
 
+- https://www.mindtools.com/pages/article/PlanningAWorkshop.htm
+- http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003485
+- http://sciencehackday.org/howto/
 
 ### Mentoring
 
 What is:
 
+- http://www.mentorset.org.uk/what-is-mentoring.html
+- https://en.wikipedia.org/wiki/Mentorship
+
 Where to learn:
 
+- https://www.forbes.com/sites/jacquelynsmith/2013/05/17/how-to-become-a-great-mentor/
+- https://www.thebalance.com/top-qualities-of-a-good-mentor-1986991
+- https://www.huffingtonpost.com/rajesh-setty/9-characteristics-of-a-good-mentoring-relationship_b_6674602.html
+- https://www.inc.com/jayson-demers/7-key-qualities-of-an-effective-mentor.html
 
 ### Public Speaking
 
 What is:
 
+- https://en.wikipedia.org/wiki/Public_speaking
+
 Where to learn:
 
+- https://www.mindtools.com/CommSkll/PublicSpeaking.htm
+- https://www.forbes.com/sites/iese/2016/04/18/12-tips-for-public-speaking/#2816789e3a18
+- https://www.extension.harvard.edu/professional-development/blog/10-tips-improving-your-public-speaking-skills
 
 ### Writing (Documentation/Reports)
 
 What is:
 
+- https://en.wikipedia.org/wiki/Technical_writing
+
 Where to learn:
 
+- https://github.com/thejameskyle/documentation-handbook
+- https://opensource.com/business/15/6/template-starting-project-documentation
+- http://www.writethedocs.org/guide/
 
 ### Data Archives/DVC
 
 What is:
 
+- https://en.wikipedia.org/wiki/Research_data_archiving
+- https://library.stanford.edu/research/data-management-services/data-best-practices/data-versioning
+
 Where to learn:
 
+- https://dataversioncontrol.com
 
 ### Visualization
 
 What is:
 
+- https://en.wikipedia.org/wiki/Data_visualization
+- http://www.informationisbeautiful.net
+
 Where to learn:
 
+- https://ssearch.oreilly.com/?q=visualization
 
 ### REST
 
 What is:
 
+- https://en.wikipedia.org/wiki/Representational_state_transfer
+
 Where to learn:
 
+- http://www.restapitutorial.com
 
 ### Team Management
 
 What is:
 
+- https://en.wikipedia.org/wiki/Team_management
+
 Where to learn:
 
+- https://www.mindtools.com/pages/article/newTMM_92.htm
+- https://www.game-learn.com/the-top-10-articles-on-leadership-and-team-management/
 
 ### Improvisation
 
 What is:
 
+- http://www.hideouttheatre.com/about/what-is-improv
+- https://en.wikipedia.org/wiki/Improvisational_theatre
+
 Where to learn:
 
+- https://www.theaterseatstore.com/improv-theater
+- https://www.copyblogger.com/improv-acting-for-bloggers/
 
 ### Photography
 
 What is:
 
+- https://en.wikipedia.org/wiki/Photography
+- https://petapixel.com/2015/06/19/20-inspiring-quotes-about-what-photography-is/
+
 Where to learn:
 
+- Here and now. Take your phone out and shoot
+- https://www.lightandmatter.org/2011/learn-photography/the-three-basics-of-photography/
+- https://www.exposureguide.com/photography-basics/
 
 
 # Conclusion
