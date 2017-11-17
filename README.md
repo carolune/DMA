@@ -66,9 +66,9 @@ Where to learn:
 You've got it if you understand:
 
 > A guy walks into a bar and asks for 1.014 root beers.
-
+>
 > The bartender says, “I’ll have to charge you extra, that’s a root beer float”.
-
+>
 > So the guy says, “In that case, better make it a double.”
 
 ### C++
@@ -143,7 +143,7 @@ Where to learn:
 You've got it if you understand:
 
 > And the bartender says, "Success, but you're not ready!"
-
+>
 > So a JavaScript function walks into a bar.
 
 ### Perl
@@ -195,92 +195,144 @@ You've got it when you understand:
 
 What is:
 
+- https://en.wikipedia.org/wiki/HTML
+
 Where to learn:
 
+- https://www.w3schools.com/html/
 
 ### CSS
 
 What is:
 
+- https://www.w3.org/Style/CSS/Overview.en.html
+- https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+
 Where to learn:
+
+- https://www.w3schools.com/css/
+
+You've got it if you understand:
+
+> \#einstein { position: relative; }
 
 
 ### CGI
 
 What is:
 
-Where to learn:
-
+- https://en.wikipedia.org/wiki/Common_Gateway_Interface
 
 ### XML
 
 What is:
 
+- https://www.w3.org/XML/
+- https://en.wikipedia.org/wiki/XML
+
 Where to learn:
 
+- https://www.w3schools.com/xml/
 
 ### Applescript
 
 What is:
 
+- https://en.wikipedia.org/wiki/AppleScript
+- https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html
+
 Where to learn:
 
+- https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html
 
 ### Cocoa
 
 What is:
 
+- https://en.wikipedia.org/wiki/Cocoa_(API)
+
 Where to learn:
 
+- https://developer.apple.com/library/content/navigation/
 
 ### LaTeX
 
 What is:
 
+- https://www.latex-project.org
+- https://en.wikipedia.org/wiki/LaTeX
+
 Where to learn:
 
+- https://www.latex-tutorial.com
 
 ### Flask
 
 What is:
 
+- http://www.flaskapi.org
+
 Where to learn:
+
+- https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+- https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
+- https://impythonist.wordpress.com/2015/07/12/build-an-api-under-30-lines-of-code-with-python-and-flask/
 
 
 ### D3
 
 What is:
 
+- https://d3js.org
+- https://en.wikipedia.org/wiki/D3.js
+
 Where to learn:
 
+- https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
+- http://square.github.io/intro-to-d3/
 
 ### IDL
 
 What is:
 
+- https://en.wikipedia.org/wiki/IDL_(programming_language)
+- http://www.harrisgeospatial.com/SoftwareTechnology/IDL.aspx
+
 Where to learn:
 
+- http://learnidl.com
 
 ### TurboGears
 
 What is:
 
+- http://turbogears.org
+- https://en.wikipedia.org/wiki/TurboGears
+
 Where to learn:
 
+- http://turbogears.readthedocs.io/en/latest/turbogears/minimal/
 
 ### WebObjects
 
 What is:
 
+- https://en.wikipedia.org/wiki/WebObjects
+
 Where to learn:
 
+- http://www.businessinsider.com/apple-officially-discontinues-webobjects-2016-5
 
 ### AstroPy
 
 What is:
 
+- https://en.wikipedia.org/wiki/Astropy
+- http://www.astropy.org
+
 Where to learn:
 
+- https://www.dotastronomy.com
 
 ### CorePlot
 
