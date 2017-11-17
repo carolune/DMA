@@ -201,8 +201,9 @@ Where to learn:
 
 - https://www.w3schools.com/html/
 
-You've got it when you don't do:
-<blink>this.</blink>
+You've got it when you understand:
+
+> don't blink.
 
 ### CSS
 
@@ -268,6 +269,10 @@ What is:
 Where to learn:
 
 - https://www.latex-tutorial.com
+
+You get it if you understand:
+
+- https://tex.stackexchange.com/questions/18326/latex-math-jokes
 
 ### Flask
 
