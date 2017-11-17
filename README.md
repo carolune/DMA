@@ -48,7 +48,7 @@ Flavours:
 
 You've got it if you understand:
 
-https://imgs.xkcd.com/comics/exploits_of_a_mom.png
+![this image](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
 
 ### C
@@ -200,6 +200,9 @@ What is:
 Where to learn:
 
 - https://www.w3schools.com/html/
+
+You've got it when you don't do:
+<blink>this.</blink>
 
 ### CSS
 
